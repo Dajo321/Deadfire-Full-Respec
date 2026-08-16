@@ -1,0 +1,64 @@
+D:\POE II Deadfire Modding\DeadfireFullRespec\obj\Debug\DeadfireFullRespec.csproj.AssemblyReference.cache
+D:\POE II Deadfire Modding\DeadfireFullRespec\obj\Debug\DeadfireFullRespec.csproj.CoreCompileInputs.cache
+D:\POE II Deadfire Modding\DeadfireFullRespec\bin\Debug\DeadfireFullRespec.dll
+D:\POE II Deadfire Modding\DeadfireFullRespec\bin\Debug\DeadfireFullRespec.pdb
+D:\POE II Deadfire Modding\DeadfireFullRespec\bin\Debug\Assembly-CSharp.dll
+D:\POE II Deadfire Modding\DeadfireFullRespec\bin\Debug\BepInEx.dll
+D:\POE II Deadfire Modding\DeadfireFullRespec\bin\Debug\BepInEx.Harmony.dll
+D:\POE II Deadfire Modding\DeadfireFullRespec\bin\Debug\UnityEngine.dll
+D:\POE II Deadfire Modding\DeadfireFullRespec\bin\Debug\UnityEngine.UI.dll
+D:\POE II Deadfire Modding\DeadfireFullRespec\bin\Debug\Newtonsoft.Json.dll
+D:\POE II Deadfire Modding\DeadfireFullRespec\bin\Debug\OEIFormats.dll
+D:\POE II Deadfire Modding\DeadfireFullRespec\bin\Debug\Assembly-CSharp-firstpass.dll
+D:\POE II Deadfire Modding\DeadfireFullRespec\bin\Debug\MathParser.dll
+D:\POE II Deadfire Modding\DeadfireFullRespec\bin\Debug\AssetPostprocessorsGame.dll
+D:\POE II Deadfire Modding\DeadfireFullRespec\bin\Debug\GalaxyCSharp.dll
+D:\POE II Deadfire Modding\DeadfireFullRespec\bin\Debug\MsgPack.dll
+D:\POE II Deadfire Modding\DeadfireFullRespec\bin\Debug\OEICommon.dll
+D:\POE II Deadfire Modding\DeadfireFullRespec\bin\Debug\Mono.Cecil.dll
+D:\POE II Deadfire Modding\DeadfireFullRespec\bin\Debug\MonoMod.Utils.dll
+D:\POE II Deadfire Modding\DeadfireFullRespec\bin\Debug\0Harmony.dll
+D:\POE II Deadfire Modding\DeadfireFullRespec\bin\Debug\IllusionInjector.dll
+D:\POE II Deadfire Modding\DeadfireFullRespec\bin\Debug\MonoMod.RuntimeDetour.dll
+D:\POE II Deadfire Modding\DeadfireFullRespec\bin\Debug\IllusionPlugin.dll
+D:\POE II Deadfire Modding\DeadfireFullRespec\bin\Debug\BepInEx.xml
+D:\POE II Deadfire Modding\DeadfireFullRespec\bin\Debug\BepInEx.Harmony.xml
+D:\POE II Deadfire Modding\DeadfireFullRespec\bin\Debug\MonoMod.Utils.xml
+D:\POE II Deadfire Modding\DeadfireFullRespec\bin\Debug\0Harmony.xml
+D:\POE II Deadfire Modding\DeadfireFullRespec\bin\Debug\MonoMod.RuntimeDetour.xml
+D:\POE II Deadfire Modding\DeadfireFullRespec\bin\Debug\IllusionPlugin.xml
+D:\POE II Deadfire Modding\DeadfireFullRespec\obj\Debug\Deadfire.3AEF0245.Up2Date
+D:\POE II Deadfire Modding\DeadfireFullRespec\obj\Debug\DeadfireFullRespec.dll
+D:\POE II Deadfire Modding\DeadfireFullRespec\obj\Debug\DeadfireFullRespec.pdb
+D:\source\git\Deadfire-Full-Respec\bin\Debug\DeadfireFullRespec.dll
+D:\source\git\Deadfire-Full-Respec\bin\Debug\DeadfireFullRespec.pdb
+D:\source\git\Deadfire-Full-Respec\bin\Debug\0Harmony.dll
+D:\source\git\Deadfire-Full-Respec\bin\Debug\Assembly-CSharp.dll
+D:\source\git\Deadfire-Full-Respec\bin\Debug\BepInEx.dll
+D:\source\git\Deadfire-Full-Respec\bin\Debug\BepInEx.Harmony.dll
+D:\source\git\Deadfire-Full-Respec\bin\Debug\UnityEngine.dll
+D:\source\git\Deadfire-Full-Respec\bin\Debug\UnityEngine.UI.dll
+D:\source\git\Deadfire-Full-Respec\bin\Debug\Mono.Cecil.dll
+D:\source\git\Deadfire-Full-Respec\bin\Debug\MonoMod.Utils.dll
+D:\source\git\Deadfire-Full-Respec\bin\Debug\MonoMod.RuntimeDetour.dll
+D:\source\git\Deadfire-Full-Respec\bin\Debug\Newtonsoft.Json.dll
+D:\source\git\Deadfire-Full-Respec\bin\Debug\OEIFormats.dll
+D:\source\git\Deadfire-Full-Respec\bin\Debug\Assembly-CSharp-firstpass.dll
+D:\source\git\Deadfire-Full-Respec\bin\Debug\MathParser.dll
+D:\source\git\Deadfire-Full-Respec\bin\Debug\AssetPostprocessorsGame.dll
+D:\source\git\Deadfire-Full-Respec\bin\Debug\GalaxyCSharp.dll
+D:\source\git\Deadfire-Full-Respec\bin\Debug\MsgPack.dll
+D:\source\git\Deadfire-Full-Respec\bin\Debug\OEICommon.dll
+D:\source\git\Deadfire-Full-Respec\bin\Debug\IllusionInjector.dll
+D:\source\git\Deadfire-Full-Respec\bin\Debug\IllusionPlugin.dll
+D:\source\git\Deadfire-Full-Respec\bin\Debug\0Harmony.xml
+D:\source\git\Deadfire-Full-Respec\bin\Debug\BepInEx.xml
+D:\source\git\Deadfire-Full-Respec\bin\Debug\BepInEx.Harmony.xml
+D:\source\git\Deadfire-Full-Respec\bin\Debug\MonoMod.Utils.xml
+D:\source\git\Deadfire-Full-Respec\bin\Debug\MonoMod.RuntimeDetour.xml
+D:\source\git\Deadfire-Full-Respec\bin\Debug\IllusionPlugin.xml
+D:\source\git\Deadfire-Full-Respec\obj\Debug\DeadfireFullRespec.csproj.AssemblyReference.cache
+D:\source\git\Deadfire-Full-Respec\obj\Debug\DeadfireFullRespec.csproj.CoreCompileInputs.cache
+D:\source\git\Deadfire-Full-Respec\obj\Debug\Deadfire.3AEF0245.Up2Date
+D:\source\git\Deadfire-Full-Respec\obj\Debug\DeadfireFullRespec.dll
+D:\source\git\Deadfire-Full-Respec\obj\Debug\DeadfireFullRespec.pdb
