@@ -8,7 +8,7 @@ This is currently only tested for the Player character and custom Adventurer cha
 
 ## ⚠️ Disclaimer
 
-This mod is in early development. Please make sure to backup your save files before installing and read the [**Known Gaps**](#Known-Gaps-I'm-Working-On) and [**To Be Tested**](#To-Be-Tested) sections to learn more about what works and what doesn't.
+This mod is in early development. Please make sure to backup your save files before installing and read the [**Known Gaps**](#known-gaps-im-working-on) and [**To Be Tested**](#to-be-tested) sections to learn more about what works and what doesn't.
 
 ## Defaults From Existing Character
 
