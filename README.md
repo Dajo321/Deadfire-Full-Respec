@@ -1,6 +1,6 @@
 # Deadfire Full Respec
 
-Pillars of Eternity II: Deadfire mod based on the BepInEx framework.
+Pillars of Eternity II: Deadfire mod using the BepInEx framework.
 
 This mod turns the shop character respec system into a full character recreation from level 1 with default selections pulled from the character's existing data.
 
@@ -36,18 +36,18 @@ I'm still discovering the full ramifications of my hubris:
 
 1. "Granted" passives
 2. Companions and Sidekicks
-- I'd really like to figure out full class selection options for non-custom characters
+   - I'd really like to figure out full class selection options for non-custom characters
 
 ## Not Planned
 
-This is functionality that I recognize I could try to implement but either doesn't really feel necessary or convenient for the user experience (at least to me!), or might introduce unnecessary complexity and instability to the mod:
+This is functionality that I recognize I could try to implement but either doesn't really feel necessary or convenient for the user experience (at least to me), and/or might introduce unnecessary complexity and instability to the mod:
 
-1. Class(es) and class abilities
+1. Class(es) and class starting abilities
 2. Weapon proficiencies 
 
 ## Install Instructions
 
-This mod requires the latest version of [BepInEx 5.X](https://github.com/bepinex/bepinex/releases). It was only tested with the BepInEx_win_x64 version.
+This mod requires the BepInEx framework. As far as I'm aware, Deadfire runs on the Mono-based Unity v5.6 engine. This should be supported by the latest version of [BepInEx 5.X](https://github.com/bepinex/bepinex/releases). It was only tested with the BepInEx_win_x64 5.4.23.5 version.
 
 1. Download [**BepInEx 5.X**](https://github.com/bepinex/bepinex/releases).
 2. Extract the .zip to your game directory - e.g. "C:\...\steamapps\common\Pillars of Eternity II".
