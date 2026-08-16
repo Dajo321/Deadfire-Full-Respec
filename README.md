@@ -53,7 +53,7 @@ This mod requires the BepInEx framework. As far as I'm aware, Deadfire runs on t
 2. Extract the .zip to your game directory - e.g. "C:\...\steamapps\common\Pillars of Eternity II".
    - You should end up with a "BepInEx" folder (and potentially others) in your game directory.
 4. Run the game once for BepInEx setup.
-5. Download [**Deadfire Full Respec**](https://github.com/Dajo321/Deadfire-Full-Respec/releases/tag/latest).
+5. Download [**Deadfire Full Respec**](https://github.com/Dajo321/Deadfire-Full-Respec/releases/latest).
 6. Extract the .zip contents to the BepInEx **plugins** folder - e.g. "C:\...\steamapps\common\Pillars of Eternity II\BepInEx\plugins".
    - This should result in one **DeadfireFullRespec.dll** in the plugins folder.
 6. Run the game and try it out!
