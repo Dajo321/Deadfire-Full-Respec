@@ -2,11 +2,13 @@
 
 Pillars of Eternity II: Deadfire mod based on the BepInEx framework.
 
-⚠️ This mod is in early development. Please make sure to backup your save files before installing and read the **Known Gaps** and **To Be Tested Sections** to learn more about what works and what doesn't.
-
 This mod turns the shop character respec system into a full character recreation from level 1 with default selections pulled from the character's existing data.
 
 This is currently only tested for the Player character and custom Adventurer characters. I have a strong feeling this currently breaks Companion and Sidekick character respec.
+
+## ⚠️ Disclaimer
+
+This mod is in early development. Please make sure to backup your save files before installing and read the **Known Gaps** and **To Be Tested Sections** to learn more about what works and what doesn't.
 
 ## Defaults From Existing Character
 
